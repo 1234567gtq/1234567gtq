@@ -1,0 +1,1 @@
+![Snake animation](https://raw.githubusercontent.com/1234567gtq/1234567gtq/output/github-contribution-grid-snake-dark.svg)
